@@ -32,4 +32,4 @@ Features & Highlights
 
 🚦 Prioritization support: highlight urgent cases for faster action
 
-Screenshot - 
+Screenshot - https://github.com/SandaliW2002/Patient-Waitlist/blob/main/Patient%20Waitlist%20Dashboard.png
