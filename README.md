@@ -4,7 +4,7 @@ Purpose
 
 An interactive Power BI dashboard for monitoring and managing patient waitlists, helping healthcare teams track referrals, appointments, and wait times with ease.
 
-Tech Stack
+Tech Stack -
 
 Power BI – for visualization and dashboard design
 
@@ -12,7 +12,7 @@ DAX (Data Analysis Expressions) – for custom measures and calculations
 
 Data Analysis – for insights, reporting, and decision support
 
-Data Source
+Data Source -
 
 Patient referral and scheduling datasets
 
@@ -20,7 +20,7 @@ Appointment and treatment records
 
 Custom healthcare waitlist data (connect via Power BI)
 
-Features & Highlights
+Features & Highlights -
 
 📊 Interactive visualizations: patient flow, referrals, and backlog trends
 
